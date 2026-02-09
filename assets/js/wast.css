@@ -3773,7 +3773,7 @@ hr.title-line {
 
 /*------------------- 3.4. Common -------------------*/
 .shape-mockup-wrap {
-  z-index: ;
+  z-index: 9;
   position: relative;
 }
 
@@ -8921,24 +8921,12 @@ ol.wp-block-rss {
 
 .header-layout1 .main-menu {
   position: relative;
-  padding-left: 100px;
-}
-
-@media(min-width: 1600px){
-  .header-layout1 .main-menu {
-    padding-left: 150px;
-  }
-}
-
-@media(min-width: 1700px){
-  .header-layout1 .main-menu {
-    padding-left: 250px;
-  }
+  padding-left: 80px;
 }
 
 @media (min-width: 1930px) {
   .header-layout1 .main-menu {
-    padding-left: 200px;
+    padding-left: 150px;
   }
 }
 
@@ -10015,8 +10003,8 @@ heding animation  end
 
 .newsletter-top {
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-  margin-bottom: 50px;
-  padding-bottom: 30px;
+  margin-bottom: 70px;
+  padding-bottom: 60px;
 }
 
 .newsletter-top .newsletter-title {
@@ -10696,7 +10684,7 @@ heding animation  end
   position: relative;
   background-color: var(--title-color);
   background-position: left top;
-  padding: 62px 0;
+  padding: 60px 0;
   overflow: hidden;
   text-align: center;
   background-repeat: repeat-x;
@@ -21834,7 +21822,7 @@ span.select2-selection.select2-selection--single:focus {
 
 .contact-form {
   background-color: var(--white-color);
-  /* box-shadow: 0px 20px 20px rgba(204, 204, 204, 0.25); */
+  box-shadow: 0px 20px 20px rgba(204, 204, 204, 0.25);
   border-radius: 16px;
   padding: 40px;
   /* Medium Large devices */
@@ -22466,7 +22454,7 @@ span.select2-selection.select2-selection--single:focus {
 /*------------------- contact style4 end here -------------*/
 /*------------------- contact inner style here -------------*/
 .contact-infobox {
-  padding: 60px 30px;
+  padding: 60px;
   border-radius: 30px;
   /* Medium Large devices */
   /* Extra small devices */
@@ -30004,9 +29992,9 @@ span.select2-selection.select2-selection--single:focus {
 .counter-card {
   position: relative;
   background-color: #F2F5FA;
-  padding: 93px 28px;
-  width: 264px;
-  height: 264px;
+  padding: 40px 28px ;
+  width: 394px;
+  height: 100%;
   display: block;
   margin: auto;
   text-align: center;
@@ -33787,7 +33775,7 @@ span.select2-selection.select2-selection--single:focus {
   position: relative;
   background: var(--smoke-color);
   border-radius: 30px;
-  padding: 40px;
+  padding: 30px;
   margin: 0 30px 30px 0;
   z-index: 2;
   /* Medium Large devices */
@@ -33870,11 +33858,10 @@ span.select2-selection.select2-selection--single:focus {
 .story-box.inner-style {
   padding-bottom: 30px;
   margin-bottom: 0;
-  padding: 30px;
 }
 
 .story-box.inner-style .story-box_icon {
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   display: inline-block;
 }
 
@@ -41538,11 +41525,8 @@ span.select2-selection.select2-selection--single:focus {
   text-align: left;
 }
 
-.counter-cardd{
-  padding: 40px 0px;
-  border-radius: 30px;
-  width: 400px;
-  height: 200px;
+.counter-card{
+  border-radius: 50%;
 }
 
 .fess-details{
@@ -41609,53 +41593,4 @@ span.select2-selection.select2-selection--single:focus {
   100% {
     transform: translate3d(-50%, 0, 0);
   }
-}
-
-.spacee-topp{
-  padding-top: 110px !important;
-}
-
-.small-heading{
-  font-size: 30px !important;
-}
-
-.footer-space-top{
-  padding-top: 50px;
-}
-
-.footer-space-bottom{
-  padding-bottom: 0px;
-}
-
-.space-bottom-fac{
-  padding-bottom: 1px;
-}
-
-.phone-deatlsas p a:hover{
-  color: #fff !important;
-}
-
-.contact-add{
-  font-size: 20px !important;
-}
-
-.brand-grid {
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    gap: 20px;
-}
-
-.brand-item {
-    border: 1px solid #dbdbdb;
-    padding: 15px;
-    border-radius: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.brand-item img {
-    max-width: 100%;
-    max-height: 80px;
-    object-fit: contain;
 }
