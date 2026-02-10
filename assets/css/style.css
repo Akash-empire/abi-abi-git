@@ -41659,3 +41659,47 @@ span.select2-selection.select2-selection--single:focus {
     max-height: 80px;
     object-fit: contain;
 }
+
+.tac {
+  text-align: center;
+}
+
+table {
+        width: 100%;
+        max-width: 900px;
+        margin: auto;
+        border-collapse: collapse;
+        background: #fff;
+    }
+
+    thead th {
+        background: #0b59db;
+        color: #fff;
+        padding: 12px;
+        font-size: 14px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+
+    tbody td {
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ddd;
+        vertical-align: top;
+    }
+
+    tbody td:nth-child(1) {
+        text-align: center;
+        width: 60px;
+        font-weight: bold;
+    }
+
+    tbody td:nth-child(2) {
+        font-weight: bold;
+        text-align: center;
+        width: 300px;
+    }
+
+    .staff-name {
+        line-height: 1.8;
+    }
