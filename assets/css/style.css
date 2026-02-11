@@ -41664,8 +41664,22 @@ span.select2-selection.select2-selection--single:focus {
   text-align: center;
 }
 
+.ww {
+  width: 60%;
+}
+.btn {
+  border: 1px solid #0b59db;
+  color: #0b59db;
+}
+.btn:hover {
+  border: 1px solid;
+  /* padding: 9px 15px; */
+  color: #ffffff;
+  background-color: #0b59db;
+}
+
 table {
-        width: 100%;
+        width: 100% !important;
         max-width: 900px;
         margin: auto;
         border-collapse: collapse;
@@ -41703,3 +41717,4 @@ table {
     .staff-name {
         line-height: 1.8;
     }
+    
