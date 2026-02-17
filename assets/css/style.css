@@ -6,7 +6,7 @@ Description: It Business and Consulting Service Html Template
 Author: themeholy
 Author URI: https://themeforest.net/user/themeholy
 Version: 1.0.0 
-Last Update: 20-07-2025  
+Last Update: 20-07-2020  
 */
 /*=================================
     CSS Index Here
@@ -307,7 +307,7 @@ h2 {
 
 .h3,
 h3 {
-  font-size: 32px;
+  font-size: 28px;
   line-height: 1.278;
 }
 
@@ -9992,7 +9992,7 @@ heding animation  end
 }
 
 .copyright-wrap {
-  padding: 22px 0;
+  padding: 18px 0;
   background-color: #3d4859;
 }
 
@@ -10680,7 +10680,7 @@ heding animation  end
 
 .breadcumb-title {
   margin: -0.23em 0 -0.18em 0;
-  font-size: 64px;
+  font-size: 50px;
   font-family: var(--title-font);
   color: var(--white-color);
   font-weight: 700;
@@ -41461,12 +41461,12 @@ span.select2-selection.select2-selection--single:focus {
 
 .space,
 .space-top {
-  padding-top: 70px;
+  padding-top: 50px;
 }
 
 .space,
 .space-bottom {
-  padding-bottom: 70px;
+  padding-bottom: 50px;
 }
 
 .space-extra,
@@ -41493,11 +41493,11 @@ span.select2-selection.select2-selection--single:focus {
 @media (max-width: 991px) {
   .space,
   .space-top {
-    padding-top: 70px;
+    padding-top: 50px;
   }
   .space,
   .space-bottom {
-    padding-bottom: 70px;
+    padding-bottom: 50px;
   }
   .space-extra,
   .space-extra-top {
@@ -41665,7 +41665,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .ww {
-  width: 60%;
+  width: 85%;
 }
 .btn {
   border: 1px solid #0b59db;
@@ -41715,7 +41715,7 @@ table {
 
     tbody td:nth-child(2) {
         font-weight: bold;
-        text-align: center;
+        text-align: left;
         width: 300px;
     }
 
