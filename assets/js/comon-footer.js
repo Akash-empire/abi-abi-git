@@ -29,10 +29,10 @@ document.addEventListener("DOMContentLoaded", ()=>{
                                 </div>
                                 <p class="about-text">Founded in 1997, ABI & ABI College provides value-based, future-ready education promoting creativity, self-employment, holistic growth, and excellence.</p>
                                 <div class="th-social">
-                                    <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.twitter.com/"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
+                                    <a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="https://www.twitter.com/" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube"></i></a>
 
                                 </div>
                             </div>
@@ -62,9 +62,11 @@ document.addEventListener("DOMContentLoaded", ()=>{
                                         <img src="assets/img/icon/phone.svg" alt="img">
                                     </div>
                                     <div class="details phone-deatlsas">
-                                        <p><a href="tel:9751165000" class="info-box_link">Office: +91 9751165000</a>
+                                        <p>Office:<a href="tel:9751165000" class="info-box_link"> +91 97511 65000</a>
                                         </p>
-                                        <p><a href="tel:8098405000" class="info-box_link">8124145000, 8098405000</a>
+                                        <p><a href="tel:8098405000" class="info-box_link">+91 80984 05000</a>
+                                        </p>
+                                        <p><a href="tel:8124145000" class="info-box_link">+91 81241 45000</a>
                                         </p>
                                     </div>
                                 </div>
@@ -83,7 +85,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
                                     <div class="details">
                                         <p>ABI & ABI
                                                 College,
-                                                Thanjavur – 613004</p>
+                                                Thanjavur – 613 004.</p>
                                     </div>
                                 </div>
                             </div>
@@ -105,7 +107,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
             <div class="container">
                 <div class="row justify-content-lg-between align-items-center">
                     <div class="col-lg-6">
-                        <p class="copyright-text">Copyright © 2020 <a href="index.html">abiabicollege</a>. All Rights
+                        <p class="copyright-text">Copyright © 2020 - 2026 <a href="index.html">Abi & Abi College</a>. All Rights
                             Reserved.
                         </p>
                     </div>
