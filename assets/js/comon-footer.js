@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
                         <div class="widget footer-widget">
                             <div class="th-widget-about">
                                 <div class="about-logo">
-                                    <a href="index.html"><img src="assets/img/mainlogo.png" alt="Atek"></a>
+                                    <a href="index.html"><img src="assets/img/mainlogo.png" alt="Abi Abi"></a>
                                 </div>
                                 <p class="about-text">Founded in 1997, ABI & ABI College provides value-based, future-ready education promoting creativity, self-employment, holistic growth, and excellence.</p>
                                 <div class="th-social">
