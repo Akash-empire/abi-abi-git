@@ -8905,6 +8905,26 @@ ol.wp-block-rss {
   .header-layout1 .logo-bg {
     width: 40%;
   }
+  .header-layout1 .header-top {
+    position: relative;
+    padding: 0px 0;
+    margin-top: -2px;
+    border-bottom: 1px solid #E1E4E5;
+    z-index: 2;
+}
+.header-logo {
+  width: 185px;
+}
+.menu-area {
+  height: 80px;
+}
+
+.th-menu-toggle {
+  margin-top: 11px;
+}
+.ddd {
+  display: none;
+}
 }
 
 @media (max-width: 575px) {
