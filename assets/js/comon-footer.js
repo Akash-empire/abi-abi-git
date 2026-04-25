@@ -30,8 +30,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
                                 <p class="about-text">Founded in 1997, ABI & ABI College provides value-based, future-ready education promoting creativity, self-employment, holistic growth, and excellence.</p>
                                 <div class="th-social">
                                     <a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://www.twitter.com/" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
                                     <a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube"></i></a>
 
                                 </div>
